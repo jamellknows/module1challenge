@@ -23,15 +23,15 @@ The Horiseo website displays differently depending on the size of the device scr
 
 * Mobile Screen
 ```md
-![mobile screen screenshot](/Assets/images/390px.png)
+![mobile screen screenshot](/Assets/390px.png)
 ```
 * Tablet Screen 
 ```md
-![tablet screen screenshot](/Assets/images/784px.png)
+![tablet screen screenshot](/Assets/784px.png)
 ```
 * Small Laptop Screen
 ```md
-![small laptop screen screenshot](/Assets/images/1200pxtop.png)
+![small laptop screen screenshot](/Assets/1200pxtop.png)
 ```
 
 
