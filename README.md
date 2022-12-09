@@ -19,6 +19,7 @@ What makes my project stand out is that I used css media queries to style the pa
 ## Usage 
 
 The Horiseo website displays differently depending on the size of the device screen that you are using.  
+https://jamellknows.github.io/module1challenge/
 
 
 * Mobile Screen
